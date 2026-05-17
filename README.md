@@ -69,7 +69,8 @@ The Power BI dashboard includes:
 
 ```text
 ├── notebooks/
-├── images/
+│   ├── ecommerce_sales_analytics.ipynb
+│   └── ecommerce_sales_analytics.html
 ├── dashboard/
-├── README.md
-└── requirements.txt
+│   └── powerbi_dashboard.pdf
+└── README.md
