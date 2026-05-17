@@ -17,21 +17,21 @@ Business KPI tracking
 
 Tools & Technologies
 
-SQL
+- SQL
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-SQLite
+- SQLite
 
-Power BI
+- Power BI
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 Key Business Questions
 
