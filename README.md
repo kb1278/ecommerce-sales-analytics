@@ -49,43 +49,40 @@ Key Business Questions
 
 SQL Techniques Used
 
-JOINs
+- JOINs
 
-GROUP BY
+- GROUP BY
 
-Aggregate functions
-CTEs
+- Aggregate functions
+  
+- CTEs
 
-CASE WHEN
+- CASE WHEN
 
-Window functions
+- Window functions
 
 Key Insights
 
-Revenue grew significantly throughout 2017.
+- Revenue grew significantly throughout 2017.
 
-Bed, Bath & Table and Health & Beauty were top-performing categories.
+- Bed, Bath & Table and Health & Beauty were top-performing categories.
 
-Most customers placed only one order, highlighting retention opportunities.
+- Most customers placed only one order, highlighting retention opportunities.
 
-São Paulo generated the highest revenue.
+- São Paulo generated the highest revenue.
 
-Average order value was approximately 161 BRL.
+- Average order value was approximately 161 BRL.
 
-Average delivery time was approximately 12.6 days.
+- Average delivery time was approximately 12.6 days.
 
 Power BI Dashboard
 
 The Power BI dashboard includes:
 
-Revenue trends
-
-Customer analytics
-
-Product category performance
-
-Regional sales analysis
-
+Revenue trends,
+Customer analytics,
+Product category performance,
+Regional sales analysis,
 KPI tracking
 
 Note: Dashboard screenshots and exports are included in the repository.
@@ -99,10 +96,10 @@ Repository Structure
 
 Business Recommendations
 
-Improve customer retention strategies
+- Improve customer retention strategies
 
-Focus marketing on high-performing categories
+- Focus marketing on high-performing categories
 
-Optimize delivery performance
+- Optimize delivery performance
 
-Strengthen partnerships with top sellers
+- Strengthen partnerships with top sellers
