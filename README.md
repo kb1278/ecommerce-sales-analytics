@@ -63,7 +63,7 @@ The Power BI dashboard includes:
 - Regional sales analysis
 - KPI tracking
 
-*Note: Dashboard screenshots and exports are included in the repository.*
+Note: A PDF export of the dashboard is included in the repository.
 
 ## Repository Structure
 
