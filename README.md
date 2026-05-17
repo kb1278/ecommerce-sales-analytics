@@ -8,16 +8,11 @@ This project analyzes e-commerce sales performance, customer behavior, delivery 
 
 The analysis focuses on:
 
-Sales performance
-
-Customer analytics
-
-Product category trends
-
-Regional sales analysis
-
-Delivery efficiency
-
+Sales performance,
+Customer analytics,
+Product category trends,
+Regional sales analysis,
+Delivery efficiency,
 Business KPI tracking
 
 Tools & Technologies
