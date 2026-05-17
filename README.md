@@ -11,13 +11,21 @@ The project combines SQL, Python, and Power BI to generate business insights and
 Key analysis areas include:
 
 Sales performance
+
 Customer analytics
+
 Order trends
+
 Product category performance
+
 Regional sales analysis
+
 Delivery efficiency
+
 Customer satisfaction
+
 Business KPI tracking
+
 Dataset
 
 Dataset Used:
