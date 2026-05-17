@@ -1,4 +1,4 @@
-E-Commerce Sales & Customer Analytics
+# E-Commerce Sales & Customer Analytics
 
 Using SQL, Python, and Power BI
 
@@ -87,12 +87,14 @@ KPI tracking
 
 Note: Dashboard screenshots and exports are included in the repository.
 
+
 Repository Structure
 ├── notebooks/
 ├── images/
 ├── dashboard/
 ├── README.md
 └── requirements.txt
+
 
 Business Recommendations
 
