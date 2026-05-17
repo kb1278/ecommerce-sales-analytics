@@ -35,17 +35,17 @@ Tools & Technologies
 
 Key Business Questions
 
-What are the overall sales trends?
+- What are the overall sales trends?
 
-Which product categories generate the most revenue?
+- Which product categories generate the most revenue?
 
-Which customers spend the most?
+- Which customers spend the most?
 
-What is the repeat customer rate?
+- What is the repeat customer rate?
 
-Which regions generate the highest sales?
+- Which regions generate the highest sales?
 
-How efficient are deliveries?
+- How efficient are deliveries?
 
 SQL Techniques Used
 
