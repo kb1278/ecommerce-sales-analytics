@@ -2,7 +2,7 @@
 
 Using SQL, Python, and Power BI
 
-Project Overview
+## Project Overview
 
 This project analyzes e-commerce sales performance, customer behavior, delivery efficiency, and product trends using the Brazilian Olist E-Commerce Dataset.
 
@@ -15,7 +15,7 @@ Regional sales analysis,
 Delivery efficiency,
 Business KPI tracking
 
-Tools & Technologies
+## Tools & Technologies
 
 - SQL
 
@@ -33,7 +33,7 @@ Tools & Technologies
 
 - Jupyter Notebook
 
-Key Business Questions
+## Key Business Questions
 
 - What are the overall sales trends?
 
@@ -47,7 +47,7 @@ Key Business Questions
 
 - How efficient are deliveries?
 
-SQL Techniques Used
+## SQL Techniques Used
 
 - JOINs
 
@@ -61,7 +61,7 @@ SQL Techniques Used
 
 - Window functions
 
-Key Insights
+## Key Insights
 
 - Revenue grew significantly throughout 2017.
 
@@ -75,7 +75,7 @@ Key Insights
 
 - Average delivery time was approximately 12.6 days.
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard includes:
 
@@ -96,7 +96,7 @@ Repository Structure
 └── requirements.txt
 
 
-Business Recommendations
+## Business Recommendations
 
 - Improve customer retention strategies
 
