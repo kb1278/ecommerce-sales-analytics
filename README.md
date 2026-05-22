@@ -65,12 +65,5 @@ The Power BI dashboard includes:
 
 Note: A PDF export of the dashboard is included in the repository.
 
-## Repository Structure
 
-```text
-├── notebooks/
-│   ├── ecommerce_sales_analytics.ipynb
-│   └── ecommerce_sales_analytics.html
-├── dashboard/
-│   └── powerbi_dashboard.pdf
-└── README.md
+
